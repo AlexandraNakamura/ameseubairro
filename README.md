@@ -8,11 +8,7 @@ Projeto em desenvolvimento pela Time 4 do summit-hack do tema AME.
 desenvolvimento
 
 # Objetivo
-Uma plataforma simples e fácil que conecta a Ame e o seu bairro. Mostrando os pequenos negócios e profissionais autônomos, 
-poderão se conectar de forma fácil, rápida e atrair novos clientes.
- 
-
-
+Somos uma plataforma fácil e rápida que conecta os pequenos negócios a clientes que buscam impacto econômico, social e também cashback. Através da  Ame seu bairro os pequenos negócios poderão compartilhar suas lojas, seus produtos e suas histórias atraindo novos clientes. Já os consumidores poderão encontrar novas opções de lojas e produtos que estejam próximos e possam impactar a economia local ajudando pequenos negócios e profissionais autônomos da região, além de poder fazer uma doação para instituições da sua escolha.
 
 
 # Apoio, suporte e autores

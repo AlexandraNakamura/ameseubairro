@@ -1,0 +1,63 @@
+:root {
+  --color-background-primary:#F2F2F2;
+  --color-background-secundary:#F2BF5E;
+  --color-text-base:#333333;
+  --color-banner-footer: #F29F05;
+  --color-title:#333333;
+  --color-button: #F2F2F2;
+  --font-base: Ubuntu;
+	--font-headings: Ubuntu;
+	--font-input: Ubuntu;
+}
+
+
+body {
+  font-family:Ubuntu, ubuntu, Helvetica, sans-serif;
+}
+
+.bannernav {
+  width: 100%;
+  height:670px;
+  background-image:linear-gradient(-60deg, #FF2D55, #ED0059, #170085);
+  color:#ffffff;
+  font-weight:bold;
+}
+
+.blockContent div{ 
+  box-sizing: border-box;
+  max-width: 385px;
+
+}
+
+.blockContent div .titlebanner{ 
+  font-size: 50px;
+  line-height: normal;
+}
+
+
+.blockContent h2{ 
+  font-size: 30px;
+  line-height: normal;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.intro-header__content .intro__title {
+    font-size: 70px;
+    line-height: normal;
+    text-align: left;
+}
+
+.intro-header__content .intro__description {
+    width: 100%;
+    font-weight: normal;
+    line-height: 34px;
+    text-align: left;
+    margin-top: 34px;
+}
+
+.intro__buttons {
+    margin-top: 33px;
+    height: 58px;
+}
+

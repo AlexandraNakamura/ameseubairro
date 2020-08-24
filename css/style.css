@@ -43,21 +43,118 @@ body {
 }
 
 .intro-header__content .intro__title {
-    font-size: 70px;
-    line-height: normal;
-    text-align: left;
+  font-size: 70px;
+  line-height: normal;
+  text-align: left;
 }
 
 .intro-header__content .intro__description {
-    width: 100%;
-    font-weight: normal;
-    line-height: 34px;
-    text-align: left;
-    margin-top: 34px;
+  width: 100%;
+  font-weight: normal;
+  line-height: 34px;
+  text-align: left;
+  margin-top: 34px;
 }
 
 .intro__buttons {
-    margin-top: 33px;
-    height: 58px;
+  margin-top: 33px;
+  height: 58px;
+}
+
+section div {
+  width: 980px;
+  height: auto;
+  margin: 119px auto 239px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
+
+.img-logo-color {
+  width: 364px;
+  height: 97.4px;
+  margin: 0;
+}
+
+.textfind{
+  margin: 26px 0 0;
+}
+
+.textfind h2 {
+  font-size: 70px;
+  line-height: 80px;
+  font-style: normal;
+  font-weight: normal;
+  margin: 27px 0 0;
+}
+
+.textfind p {
+  width: 693px;
+  font-size: 24px;
+  margin: 27px auto 0;
+  line-height: 28px;
+}
+
+#divBusca { 
+  width: 595px;
+  height: 60px;
+  margin-top:40px;
+}
+
+#divBusca input {
+  width: 100%;
+  height: 60px;
+  display: block;
+}
+
+#searchButton {
+  width: 260px;
+  height: 65.68px;
+  background: #E73261;
+  border-radius: 4px;
+  font-size: 24px;
+  line-height: 28px;
+  color: #fff;
+  letter-spacing: -0.41px;
+  align-items: center;
+  text-align: center;
+  margin: 49px auto 125px;
+}
+
+.section02 {
+  background: #170085;
+  justify-content: center;
+  align-content: center;
+  display: flex;
+}
+
+.section02 img {
+  width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+.toSellContainer {
+  position: absolute;
+  margin: 800px auto 0;
+}
+
+.buttonToSell {
+  width: 260px;
+  height: 65.68px;
+  background: #E73261;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.41px;
+  color: #FFFFFF;
+  margin: 0 auto;
 }
 
